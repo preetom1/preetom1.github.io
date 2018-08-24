@@ -31,3 +31,12 @@ body {
 .pic {
     border:3px solid Gainsboro;;
 }
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.blurb {
+    font-family: 'EB Garamond', serif;
+    font-size: 1.1em;
+}
