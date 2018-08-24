@@ -1,0 +1,35 @@
+/* Set a background color to the 'body' element */
+body { 
+    background-color: #fffff0;
+    /*ece4cd*/
+    padding-top: 10%;
+}
+    
+.footer-links {
+    color: #999;
+    text-align: center;
+    margin: 2rem;
+}
+  
+.footer-links a {
+    color: #999;
+    padding: 25px;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    color: #333;
+}
+  
+.bio {
+    width: 100%;
+    max-width: 700px;
+    padding: 15px;
+    margin: auto;
+}
+
+.pic {
+    width: 35%;
+    height: 35%;
+    border:3px solid Gainsboro;;
+}
