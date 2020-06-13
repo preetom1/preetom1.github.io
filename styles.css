@@ -13,7 +13,7 @@ body {
   
 .footer-links a {
     color: #999;
-    padding: 15px;
+    padding: 16px;
     text-decoration: none;
 }
 
@@ -29,7 +29,7 @@ body {
 }
 
 .pic {
-    border:3px solid Gainsboro;;
+    border:3px solid Gainsboro;
 }
 
 .roboto {
